@@ -1,2 +1,1 @@
-# First-challenge
-Refactor Starter Code
+# Code Refactor Starter Code
